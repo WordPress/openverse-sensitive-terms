@@ -2,7 +2,7 @@
 
 > **Warning**
 >
-> Please be aware that this repository contains text of a sensitive nature. Examples of potentially sensitive text include but are not limited to text of a sexual, biological, political, religious, violent, or racist nature.
+> Please be aware that this repository contains text of a sensitive nature. Examples of potentially sensitive text include but are not limited to text of a sexual, biological, violent, racist, or otherwise derogatory nature.
 
 This repo is used by the [Openverse](https://github.com/wordpress/openverse) project to filter and blur results from the Openverse API which contain sensitive text.
 
